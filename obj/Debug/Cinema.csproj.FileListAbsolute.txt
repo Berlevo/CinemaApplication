@@ -1,0 +1,14 @@
+C:\Users\Berlevo\source\repos\Cinema\Cinema\bin\Debug\Cinema.exe.config
+C:\Users\Berlevo\source\repos\Cinema\Cinema\bin\Debug\Cinema.exe
+C:\Users\Berlevo\source\repos\Cinema\Cinema\bin\Debug\Cinema.pdb
+C:\Users\Berlevo\source\repos\Cinema\Cinema\obj\Debug\Cinema.csprojAssemblyReference.cache
+C:\Users\Berlevo\source\repos\Cinema\Cinema\obj\Debug\Cinema.Form1.resources
+C:\Users\Berlevo\source\repos\Cinema\Cinema\obj\Debug\Cinema.Properties.Resources.resources
+C:\Users\Berlevo\source\repos\Cinema\Cinema\obj\Debug\Cinema.csproj.GenerateResource.cache
+C:\Users\Berlevo\source\repos\Cinema\Cinema\obj\Debug\Cinema.csproj.CoreCompileInputs.cache
+C:\Users\Berlevo\source\repos\Cinema\Cinema\obj\Debug\Cinema.exe
+C:\Users\Berlevo\source\repos\Cinema\Cinema\obj\Debug\Cinema.pdb
+C:\Users\Berlevo\source\repos\Cinema\Cinema\bin\Debug\blue.png
+C:\Users\Berlevo\source\repos\Cinema\Cinema\bin\Debug\red.png
+C:\Users\Berlevo\source\repos\Cinema\Cinema\obj\Debug\Cinema.Form2.resources
+C:\Users\Berlevo\source\repos\Cinema\Cinema\obj\Debug\Cinema.Form3.resources
