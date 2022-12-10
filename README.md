@@ -1,6 +1,5 @@
 # Cinema Application
-
-Cinema appliaction a C# windows form application. This application shows the usage of object oriented programming. Although it shows how we can use and transfer data between forms. Main idea is the make a rent car application so that people can rent car easily. We have three windows form screens. The first screen is where we show the seats to be ordered in cinema. Second screen is reservation of seat. Third screen is canceling a registiration.
+<p align="justify"> Cinema appliaction a C# windows form application. This application shows the usage of object oriented programming. Although it shows how we can use and transfer data between forms. Main idea is the make a rent car application so that people can rent car easily. We have three windows form screens. The first screen is where we show the seats to be ordered in cinema. Second screen is reservation of seat. Third screen is canceling a registiration. </p>
 
 ## Cinema Saloon
 
